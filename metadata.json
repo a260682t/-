@@ -1,0 +1,6 @@
+{
+  "name": "おさかなマーケット - 旬の地魚トレードボード",
+  "description": "スーパーの海産物コーナーで地元の旬・豊漁・資源状況が株価ボード感覚でわかり、サステナブルな魚選びができる1画面アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
